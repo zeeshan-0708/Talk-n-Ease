@@ -7,3 +7,4 @@ pytesseract
 pillow
 python-dotenv
 PyPDF2
+pyaudio
